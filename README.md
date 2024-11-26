@@ -65,3 +65,13 @@ Follow on-screen instructions for controling the functionality.
 - Performance improvements
 - Binary installation app
 
+# Contributing
+Contributions are welcome! If you have ideas for improvements or new features, feel free to submit a pull request. However, you will not receive commercial rights unless a specific agreement is made. If you  want to become a partner and co-owner of the project, feel free to reach out and pitch yourself :)
+
+# Disclaimer
+Magic Maestro is an independent project inspired by various gesture-based controllers, such as - but not limited to - the ROLI Airwave and Leap Motion. This project is not affiliated with or endorsed by any existing corporations, companies or organizations. It is purely a private project owned entirely by Dag Jomar Mersland. All rights reserved for potential future commercial use.
+
+# License
+License is provided in the LICENSE.md file.
+
+
