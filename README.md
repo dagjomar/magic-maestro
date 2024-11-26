@@ -3,7 +3,9 @@ Create music like never before—control orchestral expression with the wave of 
 
 # Demo
 Check out the Magic Maestro in action.
-[Demo Video](https://www.youtube.com/shorts/y1Bmcsmi3AA)
+[Demo Video](https://www.youtube.com/watch?v=y1Bmcsmi3AA)
+[![Magic Maestro Demo](https://img.youtube.com/vi/y1Bmcsmi3AA/0.jpg)](https://www.youtube.com/watch?v=y1Bmcsmi3AA)
+
 
 ## Overview
 Magic Maestro is a gesture-based music controller that transforms your hand movements into dynamic musical expression. Inspired by the ROLI Airwave and other gesture-controlled instruments, this DIY project uses computer vision and MIDI integration to control orchestral instruments in real-time. With just a camera and some Python modules, you can bring music to life like a true maestro conducting an orchestra in thin air.
