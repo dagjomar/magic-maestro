@@ -1,5 +1,5 @@
 # Magic Maestro 🪄✨🎹
-Create music like never before—control orchestral expression with the wave of your hand!
+Use your hand to control MIDI expression!
 
 # Demo
 Check out the Magic Maestro in action.
