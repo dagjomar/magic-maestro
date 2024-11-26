@@ -1,3 +1,6 @@
+# Models
+src/models/*
+
 # OSX
 .DS_Store
 
