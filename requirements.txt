@@ -1,0 +1,2 @@
+mediapipe==0.10.18
+python-rtmidi==1.5.8
