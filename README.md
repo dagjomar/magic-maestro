@@ -29,7 +29,7 @@ to control orchestral instruments dynamically.
 
 ## Getting Started
 #### Requirements
-- Python 3.x
+- Python <= 3.12
 - A webcam or built-in camera
 - MIDI-compatible DAW (e.g., Logic Pro X)
 - Libraries:
@@ -38,21 +38,32 @@ to control orchestral instruments dynamically.
 
 ## Installation
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/magic-maestro.git
-cd magic-maestro
-```
+    ```bash
+    git clone https://github.com/yourusername/magic-maestro.git
+    cd magic-maestro
+    ```
 
-2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Set up your DAW to receive MIDI input.
+2. (Optional) Setup virtual environment:
+
+    Read [HOWTO_VIRTUALENV.md](HOWTO_VIRTUALENV.md)
+
+3. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Download the hand landmark model:
+    ```bash
+    ./download_model.sh
+    ```
+
+5. Set up your DAW to receive MIDI input.
 
 ## Usage
 1. Run the script to start the hand-tracking system:
 ```bash
-python magic_maestro.py
+python src/magic_maestro.py
 ```
 
 2. Position your hand in front of the camera and move it up and down to adjust intensity.
